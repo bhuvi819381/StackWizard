@@ -1,6 +1,6 @@
 {
   "name": "stackwizard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple CLI tool to automate MERN and frontend stack setup",
   "main": "index.js",
   "type": "module",

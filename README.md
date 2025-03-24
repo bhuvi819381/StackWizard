@@ -23,13 +23,13 @@ A simple, efficient CLI tool to automate the initial setup for **MERN** and othe
 With confirmation prompts:
 
 ```bash
-npx github:bhuvi819381/StackWizard
+npx stackwizard
 ```
 
 Without prompts (auto-confirm):
 
 ```bash
-npx --yes github:bhuvi819381/StackWizard
+npx --yes stackwizard
 ```
 
 ---
@@ -50,7 +50,7 @@ Run the CLI:
 node index.js
 ```
 
-*Or*
+_Or_
 
 ```bash
 npm run dev
@@ -143,4 +143,3 @@ Feel free to open a **Pull Request** or report issues via the [GitHub Issues](ht
 ## 👌 Connect
 
 Star ⭐ the repo if you find it helpful, and share feedback to help improve!
-
