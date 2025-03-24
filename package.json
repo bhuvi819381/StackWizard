@@ -1,17 +1,24 @@
 {
-  "name": "project-cli",
+  "name": "stackwizard",
   "version": "1.0.0",
+  "description": "A simple CLI tool to automate MERN and frontend stack setup",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module",
-  "description": "",
-  
+  "keywords": [
+    "cli",
+    "mern",
+    "stack",
+    "project-setup",
+    "react",
+    "express",
+    "vite",
+    "automation"
+  ],
+  "author": "Bhuvnesh Upadhyay",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.4.1",
     "figlet": "^1.8.0",
@@ -19,7 +26,6 @@
     "shelljs": "^0.9.2"
   },
   "bin": {
-  "setup-cli": "index.js"
+    "stackwizard": "index.js"
   }
-
 }
